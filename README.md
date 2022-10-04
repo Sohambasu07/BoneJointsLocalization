@@ -6,8 +6,8 @@
 
 
 <hr />
-<h4>Conference: 6th International Conference on Computational Vision and Bio Inspired Computing - ICCVBIC 2022 </h4>
-<h4>Accepted for publication in Computational Vision and Bio-Inspired Computing (Proceedings of ICCVBIC 2022) - Advances in Intelligent Systems and Computing - Springer </h4>
+<h4>Conference: 6th International Conference on Computational Vision and Bio Inspired Computing - ICCVBIC 2022 (Nov 18 - 19, 2022) </h4>
+<h4>Accepted for publication in Computational Vision and Bio-Inspired Computing - Advances in Intelligent Systems and Computing - Springer </h4>
 <hr />
 
 
@@ -15,5 +15,18 @@
 
 <hr />
 
-Notebooks for model training, testing and evaluation in /Notebooks
+Notebooks for model training, testing and evaluation in /Notebooks </br>
 Saved Models are available at <a href="https://drive.google.com/drive/folders/1lgz6nURTzDC2HbEBdGaf-sVS0jgQiysC?usp=sharing">at this link.</a>
+
+<hr />
+
+<h2>Cite our work</h2>
+
+    
+    Bose, S., Basu, S., Bera, I., Mallick, S., Paul, S., Das, S., Sil, S., Ghosh, S., Sen, A. (2023). A Comparative Study of Multiple Deep Learning Algorithms for Efficient Localization of Bone Joints in the Upper Limbs of Human Body. Computational Vision and Bio-Inspired Computing - ICCVBIC 2022 (in-press). Source code: https://github.com/Sohambasu07/BoneJointsLocalization
+
+
+<hr />
+
+<h2>Contact</h2>
+For any queries, please contact: <a href="mailto:soham.basu07@gmail.com">soham.basu07@gmail.com</a>
