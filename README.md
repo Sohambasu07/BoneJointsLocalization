@@ -24,7 +24,7 @@ Saved Models are available at <a href="https://drive.google.com/drive/folders/1l
 <h2>Cite our work</h2>
 
     
-    Bose, S., Basu, S., Bera, I., Mallick, S., Paul, S., Das, S., Sil, S., Ghosh, S., Sen, A. (2023). A Comparative Study of Multiple Deep Learning Algorithms for Efficient Localization of Bone Joints in the Upper Limbs of Human Body. Computational Vision and Bio-Inspired Computing - ICCVBIC 2022 (in-press). Source code: https://github.com/Sohambasu07/BoneJointsLocalization
+    Bose, S., Basu, S., Bera, I., Mallick, S., Paul, S., Das, S., Sil, S., Ghosh, S., Sen, A. (2022). A Comparative Study of Multiple Deep Learning Algorithms for Efficient Localization of Bone Joints in the Upper Limbs of Human Body. Computational Vision and Bio-Inspired Computing - ICCVBIC 2022 (in-press). Source code: https://github.com/Sohambasu07/BoneJointsLocalization
 
 
 <hr />
