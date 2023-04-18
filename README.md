@@ -2,13 +2,14 @@
 
 [Soumalya Bose](https://scholar.google.com/citations?user=Y_pbe8kAAAAJ&hl=en), [Soham Basu](https://scholar.google.com/citations?user=VFrBx88AAAAJ&hl=en), [Indranil Bera](https://www.linkedin.com/in/indranil-bera-16007196), [Sambit Mallick](https://www.linkedin.com/in/sambit-mallick-428b31235), [Snigdha Paul](https://www.linkedin.com/in/snigdha-paul-bb4355252), [Saumodip Das](https://www.linkedin.com/in/saumodip-das-3b37b822a), [Swarnendu Sil](https://www.linkedin.com/in/swarnendu-sil-641abb22b), [Swarnava Ghosh](https://www.linkedin.com/in/swarnava-ghosh-28711b178), [Anindya Sen](https://scholar.google.com/citations?user=vA6hgasAAAAJ&hl=en)
 
+[![springer](https://img.shields.io/badge/Springer-Paper-rgb(50,50,200))](https://drive.google.com/drive/folders/1lgz6nURTzDC2HbEBdGaf-sVS0jgQiysC?usp=sharing) 
 [![dataset](https://img.shields.io/badge/MURA-Dataset-red)](https://stanfordmlgroup.github.io/competitions/mura/)
 [![saved_models](https://img.shields.io/badge/Saved-Models-yellow)](https://drive.google.com/drive/folders/1lgz6nURTzDC2HbEBdGaf-sVS0jgQiysC?usp=sharing) 
 
 
 <hr />
 <h4>Conference: 6th International Conference on Computational Vision and Bio Inspired Computing - ICCVBIC 2022 (Nov 18 - 19, 2022) </h4>
-<h4>Accepted for publication in Computational Vision and Bio-Inspired Computing - Advances in Intelligent Systems and Computing - Springer </h4>
+<h4>Published in - Advances in Intelligent Systems and Computing (vol. 1439) - Springer Singapore, April 8, 2023.</h4>
 <hr />
 
 
@@ -24,8 +25,7 @@ Saved Models are available at <a href="https://drive.google.com/drive/folders/1l
 <h2>Cite our work</h2>
 
     
-    Bose, S., Basu, S., Bera, I., Mallick, S., Paul, S., Das, S., Sil, S., Ghosh, S., Sen, A. (2022). A Comparative Study of Multiple Deep Learning Algorithms for Efficient Localization of Bone Joints in the Upper Limbs of Human Body. Computational Vision and Bio-Inspired Computing - ICCVBIC 2022 (in-press). Source code: https://github.com/Sohambasu07/BoneJointsLocalization
-
+    Bose, S., Basu, S., Bera, I., Mallick, S., Paul, S., Das, S., Sil, S., Ghosh, S., Sen, A. (2022). A Comparative Study of Multiple Deep Learning Algorithms for Efficient Localization of Bone Joints in the Upper Limbs of Human Body. In: Smys, S., Tavares, J.M.R.S., Shi, F. (eds) Computational Vision and Bio-Inspired Computing. Advances in Intelligent Systems and Computing, vol 1439. Springer, Singapore. https://doi.org/10.1007/978-981-19-9819-5_46.
 
 <hr />
 
