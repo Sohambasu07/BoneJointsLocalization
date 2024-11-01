@@ -2,7 +2,8 @@
 
 [Soumalya Bose](https://scholar.google.com/citations?user=Y_pbe8kAAAAJ&hl=en), [Soham Basu](https://scholar.google.com/citations?user=VFrBx88AAAAJ&hl=en), [Indranil Bera](https://www.linkedin.com/in/indranil-bera-16007196), [Sambit Mallick](https://www.linkedin.com/in/sambit-mallick-428b31235), [Snigdha Paul](https://www.linkedin.com/in/snigdha-paul-bb4355252), [Saumodip Das](https://www.linkedin.com/in/saumodip-das-3b37b822a), [Swarnendu Sil](https://www.linkedin.com/in/swarnendu-sil-641abb22b), [Swarnava Ghosh](https://www.linkedin.com/in/swarnava-ghosh-28711b178), [Anindya Sen](https://scholar.google.com/citations?user=vA6hgasAAAAJ&hl=en)
 
-[![springer](https://img.shields.io/badge/Springer-Paper-rgb(50,50,200))](https://link.springer.com/chapter/10.1007/978-981-19-9819-5_46) 
+[![springer](https://img.shields.io/badge/Springer-Paper-rgb(50,50,200))](https://link.springer.com/chapter/10.1007/978-981-19-9819-5_46)
+[![paper](https://img.shields.io/badge/arXiv-Paper-brightgreen)](https://arxiv.org/abs/2410.20639)
 [![dataset](https://img.shields.io/badge/MURA-Dataset-red)](https://stanfordmlgroup.github.io/competitions/mura/)
 [![saved_models](https://img.shields.io/badge/Saved-Models-yellow)](https://drive.google.com/drive/folders/1lgz6nURTzDC2HbEBdGaf-sVS0jgQiysC?usp=sharing) 
 
